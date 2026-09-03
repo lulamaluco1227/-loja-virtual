@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nome": "iPhone 13",
+    "slug": "iphone-13",
+    "imagem": "images/iphone13.jpeg",
+    "descricao": "iPhone 13 com um bom tamanho de memória de 128GB, com câmera avançada, desempenho rápido e design moderno. Ideal para fotos, vídeos e uso diário, excelente iphone para você que não procura dor de cabeça, com uma bateria muuito elogiada pelo público atual.",
+    "preco": 6000.00,
+    "keywords": ["iphone 13", "smartphone apple", "celular premium", "iphone bom para 2026"]
+  },
+  {
+    "id": 2,
+    "nome": "Notebook Dell Inspiron 15",
+    "slug": "notebook-dell-inspiron-15",
+    "imagem": "images/notebook.jpeg",
+    "descricao": "Notebook Dell Inspiron 15 com ótimo desempenho para trabalho e estudos, rápido e confiável, ideal para o ano de 2026 onde hoje em dia tudo fica um pouco mais automatizado, tanto para estudos, trabalho, ou até mesmo para jogos não tão pesados onde você procura um momento de distração.",
+    "preco": 4499.90,
+    "keywords": ["notebook dell", "laptop", "notebook para estudo", "notebook bom para 2026"]
+  },
+  {
+    "id": 3,
+    "nome": "Camisa Galo Oficial",
+    "slug": "camisa-Galo-oficial",
+    "imagem": "images/camisagalo.jpeg",
+    "descricao": "Camisa oficial do Galo, confortável e perfeita para torcedores e amantes de futebol, principalmente da ENORME massa do galo que domina o Brasil, mas principalmente Minas Gerais.",
+    "preco": 450.00,
+    "keywords": ["camisa Galo", "camisa de time", "roupa esportiva", "galo", "camisa do galo addidas"]
+  }
+]
